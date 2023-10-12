@@ -22,6 +22,18 @@
         "title": " Array Sum",
         "description": "Sum Of array elements with java",
         "code_link": "https://www.tutorialspoint.com/Java-program-to-find-the-sum-of-elements-of-an-array"
+    },
+    {
+        "id": 5,
+        "title": " Linked List",
+        "description": "Adding Element in the Linked List",
+        "code_link": "https://www.geeksforgeeks.org/insertion-in-linked-list/"
+    },
+    {
+        "id": 6,
+        "title": " Array Name",
+        "description": "Adding Array name as a pointer",
+        "code_link": "https://eng.libretexts.org/Courses/Delta_College/C_-_Data_Structures/02%3A_C_Pointers/2.04%3A_Array_Name_as_Pointers"
     }
 
 ]
