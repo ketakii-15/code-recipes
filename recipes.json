@@ -16,5 +16,12 @@
         "title": "Prime Numbers",
         "description": "Find prime numbers up to a given limit.",
         "code_link": "https://www.javatpoint.com/prime-number-program-in-java"
+    },
+    {
+        "id": 4,
+        "title": " Array Sum",
+        "description": "Sum Of array elements with java",
+        "code_link": "https://www.tutorialspoint.com/Java-program-to-find-the-sum-of-elements-of-an-array"
     }
+
 ]
